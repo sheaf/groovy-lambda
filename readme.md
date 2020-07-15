@@ -1,8 +1,14 @@
 # Groovy Lambda
 
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=sheaf.groovylambda">
+    <img src="https://vsmarketplacebadge.apphb.com/version-short/sheaf.groovylambda.svg?style=flat-square" alt="GroovyLambda VS Code marketplace version">
+  </a>
+</p>
+
 __Groovy Lambda__ is a simple VS Code color theme optimised for __Haskell__, based on [__Gruvbox Material Dark__](https://github.com/sainnhe/gruvbox-material-vscode).
 
-Supports the TextMate scopes provided by the [__language haskell__](https://github.com/JustusAdam/language-haskell) VS Code extension:
+Supports the TextMate scopes provided by the [__Language Haskell__](https://github.com/JustusAdam/language-haskell) VS Code extension:
 
   * disambiguates between data constructors and types in data declarations,
   * visually clear appearance of qualified names,
@@ -10,6 +16,15 @@ Supports the TextMate scopes provided by the [__language haskell__](https://gith
   * special highlighting for record fields,
   * highlights MagicHash and OverloadedLabels,
   * underlines recognised GHC language extensions.
+
+<p align="center">
+  <img src="img/screenshot.png" alt="GroovyLambda example highlighting">
+</p>
+
+# Installation
+
+The theme can be installed directly from VS Code: search for `Groovy Lambda` in the extensions, and install.    
+See also the its [VS Code marketplace page](https://marketplace.visualstudio.com/items?itemName=sheaf.groovylambda).
 
 # Customisation
 
